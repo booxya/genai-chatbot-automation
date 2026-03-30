@@ -96,3 +96,5 @@ New workflows can be added without changing the flow logic.
 
 ##  Disclaimer
 This project is based on a real-world enterprise solution. All details have been generalized and no confidential data is included.
+
+Author: Joanna Wasilenko
