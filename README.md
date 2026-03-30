@@ -26,12 +26,9 @@ Key features:
 - Easy to extend without modifying logic  
 
 ##  Architecture (Simplified)
-[Configuration Table - SharePoint List]
-↓
-[Power Automate Flow - Orchestration]
-↓
-[Processing Logic: Conditions, Transformations]
-↓
+[Configuration Table - SharePoint List] -> 
+[Power Automate Flow - Orchestration] -> 
+[Processing Logic: Conditions, Transformations] -> 
 [Target SharePoint Libraries - Chatbot Folders]
 
 
